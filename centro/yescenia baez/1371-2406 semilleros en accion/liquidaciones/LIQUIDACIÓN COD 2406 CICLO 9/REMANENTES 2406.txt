@@ -1,0 +1,66 @@
+
+  Fecha Sistema 2019/03/07                                                                                                  Hora 11:55:05
+  Fecha Trabajo 2019/03/06                                                                                                   Pág 1  De  1
+
+                                                                 CORPORACION FOMENTAMOS
+                                                TERCEROS POR CEDULA - SEGUIMIENTO TERCEROS - PRINCIPAL
+                                                                NIT COMPANIA 8110395912
+                                                             ENTRE 1990/01/01 Y 2019/03/06
+
+   Cuenta: 27959502    REMANENTES O EXCEDENTES B.P 2016
+   Nit   : 2406        B.P SEMILLERO EN ACCION
+
+  Cuenta     Fecha        Fte Cpte    Descripción        Agen.  Documento     Sdo Anterior         Débitos        Créditos      Saldo Total
+ 27959502    2017/02/23  01 217606   B.P XXXX CUOTA      1                           0.00             0.00        5,000.00           5,000.00
+ 27959502    2017/03/24  02 28296    TRASLADO DE         1                       5,000.00         5,000.00            0.00               0.00
+ 27959502    2017/11/24  01 240862   B.P TRADICONAL      1                           0.00             0.00       32,067.00          32,067.00
+ 27959502    2017/12/12  02 31491    TRASLADO DE         1                      32,067.00        32,067.00            0.00               0.00
+ 27959502    2018/05/31  05 15492    ASIENTO EXTERNO     1    7009132                0.00             0.00        1,620.00           1,620.00
+ 27959502    2018/06/01  02 34091    TRASLADO DE         1                       1,620.00         1,620.00            0.00               0.00
+ 27959502    2018/09/05  11 77928    RECLASIFICA REGISTRO1                           0.00       285,000.00            0.00        -285,000.00
+ 27959502    2018/09/13  01 248436   REMANENTES DEL C.S. 1                    -285,000.00             0.00      285,000.00               0.00
+ 27959502    2018/11/29  05 16638    ASIENTO EXTERNO     1    7010443                0.00             0.00       11,270.00          11,270.00
+ 27959502    2018/12/06  02 37062    TRASLADO DE         1                      11,270.00        11,270.00            0.00               0.00
+ 27959502    2019/02/28  05 17252    ASIENTO EXTERNO     1    7011146                0.00             0.00      633,508.00         633,508.00
+
+    Total  Registros  11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 INTEGRADOR S.F.C.       Ver. 9.0  Serial  2005070315
+

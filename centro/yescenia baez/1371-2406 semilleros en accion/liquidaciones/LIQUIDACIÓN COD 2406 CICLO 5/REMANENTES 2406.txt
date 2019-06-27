@@ -1,0 +1,66 @@
+
+  Fecha Sistema 2018/03/09                                                                                                  Hora 10:28:04
+  Fecha Trabajo 2018/03/08                                                                                                   Pág 1  De  1
+
+                                                                 CORPORACION FOMENTAMOS
+                                                TERCEROS POR CEDULA - SEGUIMIENTO TERCEROS - PRINCIPAL
+                                                                NIT COMPANIA 8110395912
+                                                             ENTRE 1990/01/01 Y 2018/03/08
+
+   Cuenta: 27959502    REMANENTES O EXCEDENTES B.P 2016
+   Nit   : 2406        B.P SEMILLERO EN ACCION
+
+  Cuenta     Fecha        Fte Cpte    Descripción        Agen.  Documento     Sdo Anterior         Débitos        Créditos      Saldo Total
+ 27959502    2017/02/23  01 217606   B.P XXXX CUOTA      1                           0.00             0.00        5,000.00           5,000.00
+ 27959502    2017/03/24  02 28296    TRASLADO DE         1                       5,000.00         5,000.00            0.00               0.00
+ 27959502    2017/11/24  01 240862   B.P TRADICONAL      1                           0.00             0.00       32,067.00          32,067.00
+ 27959502    2017/12/12  02 31491    TRASLADO DE         1                      32,067.00        32,067.00            0.00               0.00
+
+    Total  Registros  4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 INTEGRADOR S.F.C.       Ver. 9.0  Serial  2005070315
+

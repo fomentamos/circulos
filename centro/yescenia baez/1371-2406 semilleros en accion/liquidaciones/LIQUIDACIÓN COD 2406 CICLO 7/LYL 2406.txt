@@ -1,0 +1,66 @@
+
+  Fecha Sistema 2018/09/04                                                                                                  Hora 09:16:45
+  Fecha Trabajo 2018/09/03                                                                                                   Pág 1  De  1
+
+                                                                 CORPORACION FOMENTAMOS
+                                                TERCEROS POR CEDULA - SEGUIMIENTO TERCEROS - PRINCIPAL
+                                                                NIT COMPANIA 8110395912
+                                                             ENTRE 1990/01/01 Y 2018/09/03
+
+   Cuenta: 16480203    CXC VTA MATERIAL APOYO
+   Nit   : 2406        B.P SEMILLERO EN ACCION
+
+  Cuenta     Fecha        Fte Cpte    Descripción        Agen.  Documento     Sdo Anterior         Débitos        Créditos      Saldo Total
+ 16480203    2016/12/28  01 212601   PAGO DE LYL SOPORTE 1                           0.00             0.00       50,000.00         -50,000.00
+ 16480203    2016/12/29  12 5891     FRA.F5891 VENTA     1                     -50,000.00        50,000.00            0.00               0.00
+ 16480203    2017/03/29  01 220192   C.S PAGO DE LYL     1                           0.00             0.00       60,600.00         -60,600.00
+ 16480203    2017/03/29  12 5920     FRA.F5920 VENTA     1                     -60,600.00        60,600.00            0.00               0.00
+ 16480203    2017/05/05  01 223438   PAGO DE ORDEN DEL   1                           0.00             0.00        1,000.00          -1,000.00
+ 16480203    2017/05/05  12 5938     FRA.F5938 VENTA     1                      -1,000.00         1,000.00            0.00               0.00
+ 16480203    2017/06/15  01 226788   LIBROS Y LIBRETAS   1                           0.00             0.00       60,600.00         -60,600.00
+ 16480203    2017/06/23  12 5963     FRA. F5963 VENTA    1                     -60,600.00        60,600.00            0.00               0.00
+ 16480203    2017/09/19  01 234871   PAGO DE LYL SOPORTE 1                           0.00             0.00       60,000.00         -60,000.00
+ 16480203    2017/09/22  12 6002     FRA.F6002 VENTA     1                     -60,000.00        60,000.00            0.00               0.00
+ 16480203    2017/12/19  01 242875   PAGO DE LYL SOPORTE 1                           0.00             0.00       55,000.00         -55,000.00
+ 16480203    2017/12/21  12 6054     FRA.F6054 VENTA     1                     -55,000.00        55,000.00            0.00               0.00
+ 16480203    2018/03/26  01 247048   PAGO DE LYL MES DE  1                           0.00             0.00       55,000.00         -55,000.00
+ 16480203    2018/03/27  12 6106     FRA.F6106 VENTA     1                     -55,000.00        55,000.00            0.00               0.00
+ 16480203    2018/06/26  01 247788   PAGO DE LYL DEL MES 1                           0.00             0.00       65,000.00         -65,000.00
+ 16480203    2018/06/27  12 6154     FRA.F6154 VENA      1                     -65,000.00        65,000.00            0.00               0.00
+
+    Total  Registros  16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 INTEGRADOR S.F.C.       Ver. 9.0  Serial  2005070315
+

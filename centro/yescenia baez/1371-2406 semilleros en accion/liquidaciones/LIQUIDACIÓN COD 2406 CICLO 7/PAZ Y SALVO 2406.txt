@@ -1,0 +1,66 @@
+
+
+      Fecha Sistema 2018/09/04                                                                                          Hora 09:15:16
+      Fecha Trabajo 2018/09/03                                                                                           Pág 1  De  1
+                                                      CORPORACION FOMENTAMOS--PRINCIPAL
+                                                             EXTRACTO DE CREDITOS
+
+
+
+       Empresa 0001 USUARIOS DE FOMENTAMOS
+       Nombre  de la Cuenta    Cedula                        Fecha Inicio             Fecha Desembolso        Fecha vence
+       BANCO POBRES 2016       2406                          2018/06/08               2018/06/08              2018/08/31
+                                                                                 Destino   CAPI  CAPITAL DE TRABAJO
+       Garantia     :0001    SOLIDARIDAD                                         Cuota     1,123,425.00
+       Pagare       : 7009741                                                    Plazo     12
+
+       Tasa Actual  :0.208693793520800
+       Tasa inicial :0.208693793520800                                           TOTALES                                     PESOS
+                                                                                 Capital  inicial                       $13,300,000
+
+                                                                                 + Saldo Capital                             $1,365
+       B.P SEMILLERO EN ACCION                                                   + Int. Mora Mes                                 $0
+       AC                                                                        + Interes Periodo                                0
+       MEDELLIN      ANTIOQUIA                                                   + Int. Mora No Contabil                         $0
+       Agencia                1                                                  + Int. Cte No Contabil                          $0
+                                                                                 + Interes Mora
+                                                                                                                                 $3
+                                                                                 + Interes Corriente                             $0
+                                                                                 + Costos Adicionales                            $0 *
+
+
+                                                                                 TOTAL DEUDA                                 $1,368
+
+     Fecha        Valor                       Cuota_interes   Documento            Clase Movimiento                         Oficina
+
+     2018/06/08   13,300,000.00+              0.0000000000    0                    CARGO INICIAL CRÉDITO                    PRINCIPAL
+     2018/06/14   1,120,000.00+               1.0000000000    05 15575             CONSIGNACION VOLANTE EN OFICINA          PRINCIPAL
+     2018/06/21   1,065,000.00+               2.0000000000    05 15622             CONSIGNACION VOLANTE EN OFICINA          PRINCIPAL
+     2018/06/28   1,130,000.00+               3.0000000000    05 15662             CONSIGNACION VOLANTE EN OFICINA          PRINCIPAL
+     2018/07/05   1,356,000.00+               4.0000000000    05 15692             CONSIGNACION VOLANTE EN OFICINA          PRINCIPAL
+     2018/07/12   1,198,000.00+               5.0000000000    05 15732             CONSIGNACION VOLANTE EN OFICINA          PRINCIPAL
+     2018/07/19   1,061,500.00+               6.0000000000    05 15779             CONSIGNACION VOLANTE EN OFICINA          PRINCIPAL
+     2018/07/26   285,000.00+                 7.0000000000    05 15818             CONSIGNACION VOLANTE EN OFICINA          PRINCIPAL
+     2018/07/27   1,170,500.00+               7.0000000000    05 15829             CONSIGNACION VOLANTE EN OFICINA          PRINCIPAL
+     2018/08/02   1,348,500.00+               8.0000000000    05 15868             CONSIGNACION VOLANTE EN OFICINA          PRINCIPAL
+     2018/08/09   668,300.00+                 9.0000000000    05 15911             CONSIGNACION VOLANTE EN OFICINA          PRINCIPAL
+     2018/08/16   1,124,200.00+              10.0000000000    05 15955             CONSIGNACION VOLANTE EN OFICINA          PRINCIPAL
+     2018/08/23   1,124,200.00+              11.0000000000    05 15995             CONSIGNACION VOLANTE EN OFICINA          PRINCIPAL
+     2018/08/31   820,000.00+                12.0000000000    05 16063             CONSIGNACION VOLANTE EN OFICINA          PRINCIPAL
+         Nro Cuotas Mora: 0.00  Saldo Para Ponerse Al Dia  3 - Septiembre  1,368
+         Cuota interes pagada hasta 12
+
+         Total Creditos $ 13,471,200
+         Total Debitos  $          0
+         Total ABonado  $ 13,471,200
+         Cuota interes pagada hasta 12
+
+         *  Costos Adicionales= Sumatoria de Costos, Retiro procredito, Honorarios Abogado y Valor pendiente FPC
+
+
+
+
+
+
+                             INTEGRADOR S.F.C.       Ver. 9.0  Serial  2005070315
+
